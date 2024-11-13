@@ -1,0 +1,6 @@
+hsa-miR-23a-3p
+hsa-miR-223-3p
+hsa-let-7a-5p
+hsa-miR-15b-5p
+hsa-miR-374a-3p
+hsa-let-7f-5p
